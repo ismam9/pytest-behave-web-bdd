@@ -1,3 +1,4 @@
+@all
 Feature: Archive Tabs Funcionality
 
   Background:
